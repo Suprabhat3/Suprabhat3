@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suprabhat3
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python/Java Script
+- 🌱 I’m currently learning Web.Dev.
+- 💞️ I’m looking to collaborate on any Web.Dev. project
 - 📫 How to reach me Sdk26150@gmail.com
 
 
