@@ -13,7 +13,7 @@
 - 🎓 I'm a **2nd-year B.Tech CSE student** exploring how AI & web technologies can solve real-world problems
 - 🌱 Currently learning **Next.js**, **TypeScript**, and **AI Agents deployment**
 - 💬 Ask me about **MERN stack, REST APIs, ML models, or student tech life**
-- 📫 Reach me at: `sdk26150@gmail.com`  
+- 📫 Reach me at: `suprabhat.work@gmail.com`  
 - 🧠 Fun fact: I love explaining tech to others and simplifying complex ideas!
 
 ---
@@ -57,7 +57,7 @@
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/suprabhatt)](https://linkedin.com/in/suprabhatt)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)]([https://suprabhat3.github.io/Portfolio/](https://suprabhat3.github.io/Portfolio/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://vercel-portfolio-ebon.vercel.app/)
 
 ---
 
