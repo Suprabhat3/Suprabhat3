@@ -12,7 +12,7 @@
 - 🤖 Passionate about **Artificial Intelligence**, with hands-on experience in **AI agents** and **RAG based AI systems**
 - 🎓 I'm a **2nd-year B.Tech CSE student** exploring how AI & web technologies can solve real-world problems
 - 🌱 Currently learning **Next.js**, **TypeScript**, and **AI Agents deployment**
-- 💬 Ask me about **MERN stack, REST APIs, ML models, or student tech life**
+- 💬 Ask me about **MERN stack, REST APIs, LLms models, AI Agents, or student tech life**
 - 📫 Reach me at: `suprabhat.work@gmail.com`  
 - 🧠 Fun fact: I love explaining tech to others and simplifying complex ideas!
 
