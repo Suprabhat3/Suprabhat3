@@ -57,7 +57,7 @@
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/suprabhatt)](https://linkedin.com/in/suprabhatt)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)]((https://suprabhat.kodekshetra.in/)/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://suprabhat.kodekshetra.in/)
 
 ---
 
