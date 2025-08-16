@@ -10,7 +10,6 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **full-stack web applications using MERN (MongoDB, Express.js, React.js, Node.js)**  
 - 🤖 Passionate about **Artificial Intelligence**, with hands-on experience in **AI agents** and **RAG based AI systems**
-- 🎓 I'm a **2nd-year B.Tech CSE student** exploring how AI & web technologies can solve real-world problems
 - 🌱 Currently learning **Next.js**, **TypeScript**, and **AI Agents deployment**
 - 💬 Ask me about **MERN stack, REST APIs, LLms models, AI Agents, or student tech life**
 - 📫 Reach me at: `suprabhat.work@gmail.com`  
@@ -57,7 +56,7 @@
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/suprabhatt)](https://linkedin.com/in/suprabhatt)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://suprabhat.kodekshetra.in/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](https://suprabhat.kodekshetra.in/)
 
 ---
 
