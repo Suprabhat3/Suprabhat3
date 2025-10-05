@@ -9,8 +9,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a person who enjoy the Tech. currently main focus is on creating full-stack web applications using New age technologies. I'm also very interested in Artificial Intelligence, and I have hands-on experience with AI agents and AI systems that can find and use information (like RAG-based systems). I'm currently trying to figure out how AI and web technologies can work together to fix real-world issues.
-Feel free to contact me at: suprabhat.work@gmail.com
+I'm a person who enjoy the Tech. currently main focus is on creating full-stack web applications using New age technologies. 
+I'm also very interested in Artificial Intelligence, and I have hands-on experience with AI agents and AI systems that can find and use information (like RAG-based systems). I'm currently trying to figure out how AI and web technologies can work together to fix real-world issues.
+Feel free to contact me at: suprabhat.work@gmail.com <br/>
 By the way, I really enjoy breaking down complicated tech ideas and making them easy to understand!
 
 ---
