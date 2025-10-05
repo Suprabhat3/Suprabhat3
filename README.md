@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suprabhat</h1>
-<h3 align="center">MERN Stack Developer | AI Engineer | Son of proud parents. Ordinary guy with extraordinary dreams.</h3>
+<h3 align="center">Web App Developer | AI Engineer | Gen AI Developer | Son of proud parents. Ordinary guy with extraordinary dreams.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suprabhat3e&label=Profile%20views&color=0e75b6&style=flat" alt="Suprabhat3" />
@@ -9,10 +9,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a person who enjoy the Tech. currently main focus is on creating full-stack web applications using New age technologies. 
-I'm also very interested in Artificial Intelligence, and I have hands-on experience with AI agents and AI systems that can find and use information (like RAG-based systems). I'm currently trying to figure out how AI and web technologies can work together to fix real-world issues.
-Feel free to contact me at: suprabhat.work@gmail.com <br/>
-By the way, I really enjoy breaking down complicated tech ideas and making them easy to understand!
+- I'm a person who enjoy the Tech. currently main focus is on creating full-stack web applications using New age technologies. 
+- I'm also very interested in Artificial Intelligence, and I have hands-on experience with AI agents and AI systems that can find and use information (like RAG-based systems).
+- I'm currently trying to figure out how AI and web technologies can work together to fix real-world issues.
+- Feel free to contact me at: suprabhat.work@gmail.com
+- By the way, I really enjoy breaking down complicated tech ideas and making them easy to understand!
 
 ---
 
