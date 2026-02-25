@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suprabhat</h1>
-<h3 align="center">Web App Developer | AI Engineer | Gen AI Developer | Son of proud parents. Ordinary guy with extraordinary dreams.</h3>
+<h3 align="center">Web App Developer | AI Engineer | Gen AI Developer | Son of proud parents. Building Web & GenAI Software that (usually) work.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suprabhat3e&label=Profile%20views&color=0e75b6&style=flat" alt="Suprabhat3" />
