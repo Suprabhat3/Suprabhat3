@@ -1,92 +1,162 @@
-<h1 align="center">Hi 👋, I'm Suprabhat</h1>
-<h3 align="center">Full-Stack + GenAI Engineer · Building Web & AI software that (usually) works</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://new.suprabhat.site/"><img src="https://img.shields.io/badge/Portfolio-suprabhat.site-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/suprabhatt"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:suprabhat.work@gmail.com"><img src="https://img.shields.io/badge/Email-suprabhat.work@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Suprabhat3&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Suprabhat+%F0%9F%91%8B;Full-Stack+%2B+GenAI+Engineer;I+build+AI+agents+%26+RAG+systems;From+Structures+to+Software+%F0%9F%8F%97%EF%B8%8F%E2%86%92%F0%9F%92%BB" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://new.suprabhat.site/"><img src="https://img.shields.io/badge/🌐_Portfolio-36BCF7?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/suprabhatt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:suprabhat.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=Suprabhat3&label=Visitors&color=36BCF7&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+<br/>
+
+## 🏗️ → 💻 The Story
+
+I used to design **physical structures** as a Structures Engineer — making sure buildings don't fall down. Now I design **digital ones** — making sure apps don't fall over. Same engineering mindset, different blueprints.
+
+```typescript
+const suprabhat = {
+  location: "India 🇮🇳",
+  role: "Full-Stack + GenAI Engineer",
+  currentFocus: "Building AI agents that actually ship to production",
+  expertise: ["MERN Stack", "Next.js", "RAG Pipelines", "AI Agents"],
+  recentlyShipped: ["ZenScail", "Zenotion", "ATScV"],
+  superpower: "Explaining complicated tech in plain, simple words",
+  funFact: "Engineered structures in the real world before engineering them in code",
+  motto: "Ordinary guy with extraordinary dreams ✨",
+};
+```
+
+- 🤖 Deep in the **GenAI trenches** — AI agents, RAG systems, vector DBs (Pinecone, Qdrant, Neo4j), and LLM observability with Langfuse
+- ⚡ I ship **fast and often** — from realtime apps with Kafka & WebSockets to mobile apps with React Native
+- 🔭 Exploring the intersection where **AI meets the web** to solve real-world problems
+- 💬 Ask me about **RAG, AI agents, MERN, Next.js** — or how to switch careers into tech
+- 📬 Let's talk: **suprabhat.work@gmail.com**
+
+<br/>
+
+## 🚀 Featured Builds
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📧 ZenScail
+**AI-native email client**
+
+Clear your inbox without touching the mouse. See only what's urgent, turn an email into a meeting in one step, and tell an assistant *"invite Sam at 9 AM Thu."*
+
+`TypeScript` `AI Agents` `Productivity`
+
+[**→ Explore the repo**](https://github.com/Suprabhat3/zenscail)
+
+</td>
+<td width="33%" valign="top">
+
+### 📝 Zenotion
+**Notion-inspired workspace**
+
+A modern note-taking & knowledge management platform — blocks, docs, and your entire second brain in one clean surface.
+
+`TypeScript` `Full-Stack` `Editor`
+
+[**→ Explore the repo**](https://github.com/Suprabhat3/Zenotion)
+
+</td>
+<td width="33%" valign="top">
+
+### 📄 ATScV
+**ATS-optimized resume engine**
+
+Craft an industry-standard resume in minutes. Revamp your old one or let the deep-learning engine score your ATS compatibility instantly.
+
+`TypeScript` `AI/ML` `Career Tools`
+
+[**→ Explore the repo**](https://github.com/Suprabhat3/ATScV)
+
+</td>
+</tr>
+</table>
+
+<div align="right"><a href="https://github.com/Suprabhat3?tab=repositories"><b>→ 30+ more experiments in the lab</b></a></div>
+
+<br/>
+
+## 🧰 Arsenal
+
+<div align="center">
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,tailwind,html,css&perline=10" alt="Languages and frameworks"/>
+
+**Data, Infra & Tools**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,kafka,redis,docker,git,postman,vercel,figma,vscode&perline=10" alt="Data, infra and tools"/>
+
+**AI / GenAI Stack**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+<img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langfuse&logoColor=white" alt="Langfuse"/>
+
+</div>
+
+<br/>
+
+## 📊 The Numbers
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Suprabhat3&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suprabhat3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suprabhat3&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suprabhat3&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Suprabhat3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suprabhat3/Suprabhat3/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suprabhat3/Suprabhat3/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Suprabhat3/Suprabhat3/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+<br/>
+
+## 💭 Dev Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-- 🚀 Full-stack developer focused on building modern web applications end-to-end — from clean UIs to scalable backends.
-- 🤖 Deep into **Generative AI**: hands-on with AI agents, RAG pipelines, and vector databases.
-- 🔍 Currently exploring how **AI + web technologies** can combine to solve real-world problems.
-- ✍️ I love breaking down complicated tech ideas and making them easy to understand.
-- 📬 Reach me anytime at **suprabhat.work@gmail.com**
+**Building web & GenAI software that (usually) works** 🚀
 
----
+<a href="https://new.suprabhat.site/">Portfolio</a> · <a href="https://linkedin.com/in/suprabhatt">LinkedIn</a> · <a href="mailto:suprabhat.work@gmail.com">Email</a>
 
-## 🚀 Featured Projects
+⭐ *If something here caught your eye, a star keeps the caffeine flowing.*
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[ZenScail](https://github.com/Suprabhat3/zenscail)** | An AI-powered email client — clear your inbox keyboard-first, surface only what's urgent, turn an email into a meeting in one step, and command an assistant like *"invite Sam at 9 AM Thu"*. | TypeScript · AI Agents |
-| **[Zenotion](https://github.com/Suprabhat3/Zenotion)** | A modern note-taking and knowledge management platform inspired by Notion — blocks, docs, and organized knowledge in one place. | TypeScript · Full-Stack |
-| **[ATScV](https://github.com/Suprabhat3/ATScV)** | Craft an industry-standard, ATS-optimized resume in minutes. Revamp an old resume or let the deep-learning engine analyze your ATS score instantly. | TypeScript · AI/ML |
-
-<p align="right"><a href="https://github.com/Suprabhat3?tab=repositories">→ See all my projects</a></p>
-
----
-
-## 🛠️ Tech Stack
-
-**💻 Languages**
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-
-**🌐 Frontend**
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-**🔧 Backend & Tools**
-
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=apachekafka)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-
-**🤖 AI / GenAI Tools**
-
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=langchain)
-![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
-![Pinecone](https://img.shields.io/badge/-Pinecone-black?style=flat-square&logo=pinecone)
-![Qdrant](https://img.shields.io/badge/-Qdrant-black?style=flat-square&logo=qdrant)
-![Neo4j](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
-![Langfuse](https://img.shields.io/badge/-Langfuse-black?style=flat-square&logo=langfuse)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suprabhat3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suprabhat3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suprabhat3&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://new.suprabhat.site/"><img src="https://img.shields.io/badge/🌐 Portfolio-new.suprabhat.site-0e75b6?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/suprabhatt"><img src="https://img.shields.io/badge/LinkedIn-suprabhatt-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:suprabhat.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p align="center"><i>⭐ If you find my projects interesting, consider starring a repo — it keeps the caffeine flowing.</i></p>
+</div>
