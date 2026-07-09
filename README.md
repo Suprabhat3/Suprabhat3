@@ -127,20 +127,6 @@ Craft an industry-standard resume in minutes. Revamp your old one or let the dee
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suprabhat3/Suprabhat3/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suprabhat3/Suprabhat3/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Suprabhat3/Suprabhat3/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
-<br/>
-
 ## 💭 Dev Wisdom
 
 <div align="center">
