@@ -7,7 +7,7 @@
 <a href="https://new.suprabhat.site/"><img src="https://img.shields.io/badge/🌐_Portfolio-36BCF7?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/suprabhatt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:suprabhat.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=Suprabhat3e&label=Profile%20views&color=0e75b6&style=flat" alt="Suprabhat3"/>
+<img src="https://komarev.com/ghpvc/?username=Suprabhat3e&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Suprabhat3"/>
 
 </div>
 
@@ -118,8 +118,6 @@ Craft an industry-standard resume in minutes. Revamp your old one or let the dee
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suprabhat3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suprabhat3&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://ghchart.rshah.org/36BCF7/Suprabhat3" alt="Contribution Chart" width="100%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Suprabhat3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
 
