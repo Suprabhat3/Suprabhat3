@@ -114,12 +114,9 @@ Craft an industry-standard resume in minutes. Revamp your old one or let the dee
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suprabhat3&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suprabhat3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suprabhat3&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Suprabhat3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
