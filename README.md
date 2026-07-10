@@ -26,7 +26,6 @@ const suprabhat = {
   recentlyShipped: ["ZenScail", "Zenotion", "ATScV"],
   superpower: "Explaining complicated tech in plain, simple words",
   funFact: "Engineered structures in the real world before engineering them in code",
-  motto: "Ordinary guy with extraordinary dreams ✨",
 };
 ```
 
